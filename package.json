@@ -1,0 +1,15 @@
+{
+  "name": "e2e-test-talk",
+  "version": "1.0.0",
+  "description": "Test repo to show playwright in action",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Thomas Rose",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.2"
+  }
+}

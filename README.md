@@ -4,8 +4,11 @@
 ```
 npm install
 ```
+Background: ```npm init playwright@latest```
+
 
 ## Usage
 ```
 npm test
-```# e2etalk
+```
+
